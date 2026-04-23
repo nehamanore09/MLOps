@@ -1,0 +1,63 @@
+2026-04-23 23:24:19,907 - INFO - Config loaded successfully
+2026-04-23 23:24:19,907 - INFO - Job started
+2026-04-23 23:24:19,908 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-04-23 23:24:19,931 - INFO - Rows loaded: 10001
+2026-04-23 23:24:19,931 - INFO - Computing rolling mean
+2026-04-23 23:24:19,940 - INFO - Generating signal
+2026-04-23 23:24:19,943 - INFO - Job completed successfully
+2026-04-23 23:25:05,014 - INFO - Config loaded successfully
+2026-04-23 23:25:05,014 - INFO - Job started
+2026-04-23 23:25:05,014 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-04-23 23:25:05,036 - INFO - Rows loaded: 10001
+2026-04-23 23:25:05,036 - INFO - Computing rolling mean
+2026-04-23 23:25:05,045 - INFO - Generating signal
+2026-04-23 23:25:05,049 - INFO - Job completed successfully
+2026-04-23 23:26:39,119 - INFO - Config loaded successfully
+2026-04-23 23:26:39,119 - INFO - Job started
+2026-04-23 23:26:39,119 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-04-23 23:26:39,141 - INFO - Rows loaded: 10001
+2026-04-23 23:26:39,141 - INFO - Computing rolling mean
+2026-04-23 23:26:39,163 - INFO - Generating signal
+2026-04-23 23:26:39,165 - INFO - Job completed successfully
+2026-04-23 23:27:16,028 - INFO - Config loaded successfully
+2026-04-23 23:27:16,028 - INFO - Job started
+2026-04-23 23:27:16,028 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-04-23 23:27:16,049 - INFO - Rows loaded: 10001
+2026-04-23 23:27:16,049 - INFO - Computing rolling mean
+2026-04-23 23:27:16,057 - INFO - Generating signal
+2026-04-23 23:27:16,059 - INFO - Job completed successfully
+2026-04-23 23:29:03,227 - INFO - Config loaded successfully
+2026-04-23 23:29:03,228 - INFO - Job started
+2026-04-23 23:29:03,228 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-04-23 23:29:03,255 - INFO - Rows loaded: 10001
+2026-04-23 23:29:03,255 - INFO - Computing rolling mean
+2026-04-23 23:29:03,265 - INFO - Generating signal
+2026-04-23 23:29:03,266 - INFO - Metrics: signal_rate=0.49909963985594236, rows=9996
+2026-04-23 23:29:03,269 - INFO - Job completed successfully
+2026-04-23 23:29:43,823 - INFO - Config loaded successfully
+2026-04-23 23:29:43,824 - INFO - Job started
+2026-04-23 23:29:43,824 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-04-23 23:29:43,849 - INFO - Rows loaded: 10001
+2026-04-23 23:29:43,849 - INFO - Computing rolling mean
+2026-04-23 23:29:43,858 - INFO - Generating signal
+2026-04-23 23:29:43,859 - INFO - Metrics: signal_rate=0.49909963985594236, rows=9996
+2026-04-23 23:29:43,863 - INFO - Job completed successfully
+2026-04-23 23:32:36,754 - INFO - Config loaded successfully
+2026-04-23 23:32:36,754 - INFO - Job started
+2026-04-23 23:32:36,754 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-04-23 23:32:36,777 - INFO - Rows loaded: 10001
+2026-04-23 23:32:36,777 - INFO - Computing rolling mean
+2026-04-23 23:32:36,785 - INFO - Generating signal
+2026-04-23 23:32:36,785 - INFO - Metrics: signal_rate=0.49909963985594236, rows=9996
+2026-04-23 23:32:36,787 - INFO - Job completed successfully
+2026-04-23 23:35:33,257 - INFO - Config loaded successfully
+2026-04-23 23:35:33,258 - INFO - Job started
+2026-04-23 23:35:33,258 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-04-23 23:35:33,284 - INFO - Rows loaded: 10001
+2026-04-23 23:35:33,284 - INFO - Computing rolling mean
+2026-04-23 23:35:33,292 - INFO - Generating signal
+2026-04-23 23:35:33,293 - INFO - Metrics: signal_rate=0.49909963985594236, rows=9996
+2026-04-23 23:35:33,294 - INFO - Job completed successfully
+2026-04-23 23:54:24,471 - INFO - Job started... lets see how it goes
+2026-04-23 23:54:24,483 - INFO - Config loaded -> seed=42, window=5, version=v1
+2026-04-23 23:54:24,529 - ERROR - Something went wrong: 0
